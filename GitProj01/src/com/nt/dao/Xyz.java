@@ -7,7 +7,8 @@ public class Xyz {
 	}
 	
 	public void m1() {
-		
+		Xyz xyz=new Xyz();
+		xyz.m1();
 	}
 
 }
