@@ -10,7 +10,5 @@ public class Test1 {
 		System.out.println("Nice to meet you");
 	}
 	
-	public void m1() {
-		System.out.println("Test1.m1()");
-	}
+	
 }
